@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753833732380",
+    "project_id": "second-48082",
+    "storage_bucket": "second-48082.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753833732380:android:c3e2f068b27e6bfd0c32d9",
+        "android_client_info": {
+          "package_name": "com.example.l2_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753833732380-t3hgl0dtsanmlbvsvpe60pmn3q79hugv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCIMFFU_nAE-NZfk0BSeR8akIpMNdEqK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753833732380-t3hgl0dtsanmlbvsvpe60pmn3q79hugv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
